@@ -1,0 +1,10 @@
+C1 -- Stochastic models
+C2 -- Time series - intro, autocov, autocorr, stationarity
+C3 -- Time Series - causal, invertible, stationary
+C4 -- Time series - acf, pacf, forecasting
+C5 -- Time Series - estimation; dealing with non stationarity
+C6 -- Time Series - Building a model; Density function estimation; Method of Moments
+C7 -- MLE; Sampling, Bootstrap, Confidence intervals; Permutation tests
+C8 -- Significance tests - confidence intervals; one sample t-test
+C9 -- Significance tests - p-value; F test; t-tests
+C10 -- Multiple testing - One-way ANOVA; Two-way ANOVA

@@ -1,6 +1,7 @@
 # Statistics for Data Science
 
-### Exploring statistical concepts for Time Series based on predicting the stock price of Bitcoin: 
+### Exploring statistical concepts for Time Series:
+(Based on predicting the stock price of Bitcoin)
 - [x] Trend, Seasonality, Residuals
 - [x] (Partial) Autocorrelation
 - [x] Stationarity & ADF Test
